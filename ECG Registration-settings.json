@@ -1,0 +1,11 @@
+{
+    "blackfynn_settings": {
+        "Hugh": {
+            "api_secret": "e8516541-8a56-4ff2-9045-9643fd00c370", 
+            "api_token": "00911643-b2eb-4ffe-b492-487861b92a9f"
+        }, 
+        "active-profile": ""
+    }, 
+    "frames-per-second": 25, 
+    "time-loop": false
+}
