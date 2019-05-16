@@ -44,16 +44,20 @@ then move opencmiss.utils.zinc to the working directory
 (or maybe `pip install git+https://github.com/hsorby/ZincPythonTools.git` will work?)
 
 5. More dependencies:
+```
 pip install git+https://github.com/hsorby/PySideX.git
 pip install git+https://github.com/mahyar-osn/sparc.electrodeprojection.git
 pip install git+https://github.com/mahyar-osn/sparc.parametricfitting.git
 pip install git+https://github.com/mahyar-osn/heart-video-tracking
+```
 
 (if these pip install don't work just clone and add to working directory path)
 
 6. Go to this commit of imagecontext data maker
-`cd mapclientplugins.imagecontextdatamaker`
-`git checkout d5606d4a8caaadb8529b6ff1c733f05b7851eb59`
+```
+cd mapclientplugins.imagecontextdatamaker
+git checkout d5606d4a8caaadb8529b6ff1c733f05b7851eb59
+```
 
 
 
