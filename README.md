@@ -59,6 +59,8 @@ cd mapclientplugins.imagecontextdatamaker
 git checkout d5606d4a8caaadb8529b6ff1c733f05b7851eb59
 ```
 
+7. Workflow setup
+![MAPClient - images-flow _ 17_05_2019 9_33_36 AM](https://user-images.githubusercontent.com/37255664/57888690-f271b600-7886-11e9-8d66-f3742f7d8b5a.png)
 
 
 
