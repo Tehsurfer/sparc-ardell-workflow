@@ -1,0 +1,17 @@
+[
+   {
+      "MorphColours" : true,
+      "MorphNormals" : false,
+      "MorphVertices" : true,
+      "Type" : "Surfaces",
+      "URL" : "memory_resource_2"
+   },
+   {
+      "GlyphGeometriesURL" : "memory_resource_4",
+      "MorphColours" : true,
+      "MorphNormals" : false,
+      "MorphVertices" : true,
+      "Type" : "Glyph",
+      "URL" : "memory_resource_3"
+   }
+]
